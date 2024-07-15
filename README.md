@@ -2,7 +2,7 @@
 
 ### Bio
 
-I specialize in **React** and **TypeScript**, focusing on developing accessible, internationalized, and responsive web applications with a keen interest in light/dark modes. My approach emphasizes inclusive and user-centric solutions on a global scale.
+Specializing in React and TypeScript, I excel at developing accessible, internationalized and responsive web apps with light/dark modes. I prioritize inclusive and user-centric solutions globally.
 
 ### Problem Solving
 
