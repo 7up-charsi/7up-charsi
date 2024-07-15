@@ -1,3 +1,5 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=7up-charsi)
+
 ## Hi there! 👋
 
 ### Bio
