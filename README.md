@@ -23,3 +23,9 @@ I've created Typeweave, a React TypeScript UI library renowned for its reusable 
 - 📫 Reach me at [7up.charsi@gmail.com](mailto:7up.charsi@gmail.com).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I enjoy experimenting with new React libraries to enhance user interfaces and streamline development workflows.
+
+### Languages:
+
+| React | Next | Typescript |
+| ----- | ---- | ---------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next"  alt="next" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="30" height="30" /> |
