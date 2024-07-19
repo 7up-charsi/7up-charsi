@@ -18,6 +18,8 @@ My go-to front-end tool is **React**. Its component-based architecture and effic
 
 I've created Typeweave, a React TypeScript UI library renowned for its reusable components tailored for accessibility and adaptable to light/dark modes. It comprises two main packages: @typeweave/react, offering comprehensive component libraries and styles, and @typeweave/plugin, a Tailwind CSS plugin providing essential theme variables.
 
+----------
+
 - 👯 I’m looking to collaborate on web front-end projects.
 - 💬 Ask me about web accessibility, internationalization, responsiveness, and light/dark mode.
 - 📫 Reach me at [7up.charsi@gmail.com](mailto:7up.charsi@gmail.com).
