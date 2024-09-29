@@ -12,7 +12,7 @@ I thrive on solving challenges related to UI/UX design, performance optimization
 
 ### Favorite Tool
 
-My go-to front-end tool is **React**. Its component-based architecture and efficient state management empower me to create dynamic interfaces seamlessly.
+My go-to front-end tool is **Next.js**. Leveraging its robust capabilities, I build high-performance web applications by harnessing the power of React components with seamless **Server-Side Rendering** (SSR) and **static site generation**.
 
 ### Reusable Components
 
